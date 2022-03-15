@@ -1,14 +1,15 @@
-module github.com/miniscruff/changie
+module github.com/fredbi/changie
 
 go 1.17
 
-replace github.com/miniscruff/changie => github.com/fredbbi/changie v1.6.0-1c
+replace github.com/miniscruff/changie => github.com/fredbi/changie v1.6.0-1c
 
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/icholy/replace v0.5.0
 	github.com/manifoldco/promptui v0.9.0
+	github.com/miniscruff/changie v0.0.0-00010101000000-000000000000
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.18.1
 	github.com/spf13/afero v1.8.2
