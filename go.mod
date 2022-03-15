@@ -2,6 +2,8 @@ module github.com/miniscruff/changie
 
 go 1.17
 
+replace github.com/miniscruff/changie => github.com/fredbbi/changie v1.6.0-1c
+
 require (
 	github.com/Masterminds/semver/v3 v3.1.1
 	github.com/Masterminds/sprig/v3 v3.2.2
