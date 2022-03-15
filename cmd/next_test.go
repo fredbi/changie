@@ -150,4 +150,9 @@ var _ = Describe("next", func() {
 		Expect(err).To(BeNil())
 		Expect(builder.String()).To(Equal("v1.2.0-staging"))
 	})
+
+	It("fails if bump other than patch, minor, major", func() {
+		err := nextPipeline(afs, &builder, "v1.2.3", nil, nil, false)
+		Expect(err).NotTo(BeNil())
+	})
 })
