@@ -10,8 +10,8 @@ import (
 	"github.com/spf13/afero"
 	"github.com/spf13/afero/mem"
 
-	"github.com/miniscruff/changie/shared"
-	. "github.com/miniscruff/changie/testutils"
+	"github.com/fredbi/changie/shared"
+	. "github.com/fredbi/changie/testutils"
 )
 
 var _ = Describe("Utils", func() {

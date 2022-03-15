@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/miniscruff/changie/cmd"
+	"github.com/fredbi/changie/cmd"
 )
 
 // goreleaser injected values

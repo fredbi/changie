@@ -8,7 +8,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	. "github.com/miniscruff/changie/testutils"
+	. "github.com/fredbi/changie/testutils"
 )
 
 var _ = Describe("Custom", func() {

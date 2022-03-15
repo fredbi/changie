@@ -8,8 +8,8 @@ import (
 	"github.com/spf13/afero"
 	"github.com/spf13/cobra"
 
-	"github.com/miniscruff/changie/core"
-	"github.com/miniscruff/changie/shared"
+	"github.com/fredbi/changie/core"
+	"github.com/fredbi/changie/shared"
 )
 
 var _mergeDryRun = false

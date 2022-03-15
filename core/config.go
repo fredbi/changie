@@ -7,7 +7,7 @@ import (
 	"github.com/Masterminds/semver/v3"
 	"gopkg.in/yaml.v2"
 
-	"github.com/miniscruff/changie/shared"
+	"github.com/fredbi/changie/shared"
 )
 
 const configEnvVar = "CHANGIE_CONFIG_PATH"

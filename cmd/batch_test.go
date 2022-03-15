@@ -14,8 +14,8 @@ import (
 	"github.com/spf13/afero"
 	"gopkg.in/yaml.v2"
 
-	"github.com/miniscruff/changie/core"
-	. "github.com/miniscruff/changie/testutils"
+	"github.com/fredbi/changie/core"
+	. "github.com/fredbi/changie/testutils"
 )
 
 type MockBatchPipeline struct {

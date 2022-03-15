@@ -8,7 +8,7 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/spf13/afero"
 
-	. "github.com/miniscruff/changie/testutils"
+	. "github.com/fredbi/changie/testutils"
 )
 
 var _ = Describe("Replacement", func() {

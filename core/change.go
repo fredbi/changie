@@ -11,7 +11,7 @@ import (
 
 	"gopkg.in/yaml.v2"
 
-	"github.com/miniscruff/changie/shared"
+	"github.com/fredbi/changie/shared"
 )
 
 const timeFormat string = "20060102-150405"

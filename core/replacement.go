@@ -9,7 +9,7 @@ import (
 	"github.com/icholy/replace"
 	"golang.org/x/text/transform"
 
-	"github.com/miniscruff/changie/shared"
+	"github.com/fredbi/changie/shared"
 )
 
 type ReplaceData struct {

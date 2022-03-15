@@ -8,8 +8,8 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/spf13/afero"
 
-	"github.com/miniscruff/changie/core"
-	. "github.com/miniscruff/changie/testutils"
+	"github.com/fredbi/changie/core"
+	. "github.com/fredbi/changie/testutils"
 )
 
 var _ = Describe("Merge", func() {

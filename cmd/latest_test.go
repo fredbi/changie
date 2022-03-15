@@ -5,7 +5,7 @@ import (
 	. "github.com/onsi/gomega"
 	"github.com/spf13/afero"
 
-	"github.com/miniscruff/changie/core"
+	"github.com/fredbi/changie/core"
 )
 
 var _ = Describe("Latest", func() {

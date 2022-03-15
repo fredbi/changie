@@ -9,7 +9,7 @@ import (
 
 	"github.com/Masterminds/semver/v3"
 
-	"github.com/miniscruff/changie/shared"
+	"github.com/fredbi/changie/shared"
 )
 
 var ErrBadVersionOrPart = errors.New("part string is not a supported version or version increment")

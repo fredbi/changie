@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/miniscruff/changie/core"
+	"github.com/fredbi/changie/core"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
